@@ -3,7 +3,8 @@
 h1, .description {
   margin: auto;
   max-width: 500px;
-  color: rgba(0,0,0,.8)
+  color: rgba(0,0,0,.8);
+  margin-bottom: 1.5rem;
 }
 
 /* Slideshow container */
