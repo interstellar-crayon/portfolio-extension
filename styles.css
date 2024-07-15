@@ -7,6 +7,10 @@ h1, .description {
   margin-bottom: 1.5rem;
 }
 
+h1{
+  margin-top: 3rem;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 500px;
